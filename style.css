@@ -1,0 +1,87 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #0b3040ff;
+}
+
+@font-face {
+  font-family: lexend;
+  src: url(assets/fonts/lexend.ttf);
+}
+
+@font-face {
+  font-family: firacode;
+  src: url(assets/fonts/firacode.ttf);
+}
+
+* {
+  font-family: lexend;
+}
+
+.firacode {
+  font-family: firacode !important;
+}
+
+#banner {
+  position: fixed;
+  background-color: #2a4a58;
+  width: 100%;
+  padding-top: 4vh;
+  padding-bottom: 2vh;
+}
+
+.subjectend {
+  border-radius: 1em;
+  margin-left: 4vw;
+  margin-bottom: 0.4em;
+  width: 15vw;
+  height: 3em;
+  background-color: transparent;
+  color: white;
+  border-width: 0.2em;
+  border-color: #ffffff;
+  border-style: solid;
+  font-weight: bold;
+  font-size: 1.5em
+}
+
+.subjectnow {
+  border-radius: 1em;
+  margin-left: 4vw;
+  margin-bottom: 0.4em;
+  width: 17vw;
+  height: 3em;
+  background-color: #dbdbdb;
+  color: black;
+  border-width: 0.3em;
+  border-color: #ffffff;
+  border-style: solid;
+  font-weight: bold;
+  font-size: 1.5em
+}
+
+.subjectstart {
+  border-radius: 1em;
+  margin-left: 4vw;
+  margin-bottom: 0.4em;
+  width: 15vw;
+  height: 3em;
+  background-color: #dbdbdb;
+  color: black;
+  border-width: 0.3em;
+  border-color: #ffffff;
+  border-style: solid;
+  font-weight: bold;
+  font-size: 1.5em
+}
+
+.subjecttime {
+  border-radius: 1em;
+  display: inline-block;
+  background-color: #ffffff;
+  color: black;
+  padding: 1em;
+  margin-left: 0.5em;
+  margin-bottom: 0;
+}
