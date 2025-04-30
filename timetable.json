@@ -1,0 +1,58 @@
+{
+  "1": {
+    "7.50":  "Arrival",
+    "8.05":  "Music",
+    "8.45":  "Math",
+    "9.45":  "Recess",
+    "10.15":  "P.E.",
+    "11.15":  "H&G",
+    "11.55":  "Lunch",
+    "12.55":  "Literacy",
+    "2.35":  "Dismissal"
+  },
+  "2": {
+    "7.50":  "Arrival",
+    "8.05":  "Science",
+    "8.45":  "Math",
+    "9.45":  "Recess",
+    "10.15":  "French",
+    "11.15":  "Health",
+    "11.55":  "Lunch",
+    "12.55":  "H&G",
+    "1.35":  "Literacy",
+    "2.35":  "Dismissal"
+  },
+  "3": {
+    "7.50":  "Arrival",
+    "8.05":  "P.E.",
+    "8.45":  "French",
+    "9.45":  "Recess",
+    "10.15":  "Music",
+    "10.55":  "Math",
+    "11.55":  "Lunch",
+    "12.55":  "Literacy",
+    "2.35":  "Dismissal"
+  },
+  "4": {
+    "7.50":  "Arrival",
+    "8.05":  "Literacy",
+    "9.45":  "Recess",
+    "10.15":  "Math",
+    "11.15":  "French",
+    "11.55":  "Lunch",
+    "12.55":  "Science",
+    "1.35":  "Art",
+    "2.35":  "Dismissal"
+  },
+  "5": {
+    "7.50":  "Arrival",
+    "8.05":  "Math",
+    "9.05":  "Drama/Dance",
+    "9.45":  "Recess",
+    "10.15":  "Science",
+    "11.15":  "French",
+    "11.55":  "Lunch",
+    "12.55":  "Literacy",
+    "2.35":  "Dismissal"
+  }
+}
