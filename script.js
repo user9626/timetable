@@ -22,7 +22,6 @@ async function loadJSONToDOM() {
 function displayTimetable() {
   // Setup Date
   const date = new Date()
-  console.log(date.getHours().toString()+":"+date.getMinutes().toString())
   const day = (date.getDay() + dayOffset) % 7
   if (day == 0 || day == 6) {
     document.getElementById("subjects").innerHTML = "<p style='color: white;text-align: center;font-size: 1.5em;'>No school today.</p>"
