@@ -12,7 +12,7 @@ async function getJSON(url) {
     })
 }
 
-async function loadJSON() {
+async function loadJSONToDOM() {
   colorsData = await getJSON("data/colors.json")
   timetableData = await getJSON("data/timetable.json")
   displayTimetable()
@@ -59,4 +59,4 @@ function displayTimetable() {
 }
 
 // Initilize Timetable From JSON
-loadJSON()
+loadJSONToDOM()
