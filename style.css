@@ -31,49 +31,69 @@ body {
   padding-bottom: 2vh;
 }
 
-.subjectend {
-  border-radius: 1em;
-  margin-left: 4vw;
-  margin-bottom: 0.4em;
+.subjectstart {
   width: 15vw;
-  height: 3em;
-  background-color: transparent;
+  height: auto;
   color: white;
-  border-width: 0.2em;
+  
+  border-radius: 0.5em;
+  border-width: 0.3em;
   border-color: #ffffff;
   border-style: solid;
+  
   font-weight: bold;
-  font-size: 1.5em
+  font-size: 1.5em;
+  text-align: center;
+  
+  display: inline-block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 4vw;
+  margin-bottom: 0.4em;
 }
 
 .subjectnow {
-  border-radius: 1em;
-  margin-left: 4vw;
-  margin-bottom: 0.4em;
   width: 17vw;
-  height: 3em;
-  background-color: #dbdbdb;
-  color: black;
+  height: auto;
+  color: white;
+  
+  border-radius: 0.5em;
   border-width: 0.3em;
   border-color: #ffffff;
   border-style: solid;
+  
   font-weight: bold;
-  font-size: 1.5em
+  font-size: 1.5em;
+  text-align: center;
+  
+  box-shadow: 0 0 0.5em #ffffff;
+  display: inline-block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 4vw;
+  margin-bottom: 0.4em;
 }
 
-.subjectstart {
-  border-radius: 1em;
-  margin-left: 4vw;
-  margin-bottom: 0.4em;
+.subjectend {
   width: 15vw;
-  height: 3em;
-  background-color: #dbdbdb;
-  color: black;
-  border-width: 0.3em;
+  height: auto;
+  color: white;
+  background-color: transparent;
+  
+  border-radius: 0.5em;
+  border-width: 0.2em;
   border-color: #ffffff;
   border-style: solid;
+  
   font-weight: bold;
-  font-size: 1.5em
+  font-size: 1.5em;
+  text-align: center;
+  
+  display: inline-block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 4vw;
+  margin-bottom: 0.4em;
 }
 
 .subjecttime {
