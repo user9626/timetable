@@ -59,3 +59,4 @@ function displayTimetable() {
 
 // Initilize Timetable From JSON
 loadJSONToDOM()
+document.getElementsByClassName("subjectnow")[0].scrollIntoView(true)
