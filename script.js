@@ -21,7 +21,7 @@ async function loadJSON() {
 
 function displayTimetable() {
   // Setup Date
-  const date = new Date("May 23, 2025 09:01:00")
+  const date = new Date()
   console.log(date.getHours().toString()+":"+date.getMinutes().toString())
   const day = date.getDay() + dayOffset
   if (day == 0 || day == 6) {
