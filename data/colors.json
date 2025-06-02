@@ -1,0 +1,16 @@
+{
+  "arrival": "#000000",
+  "science": "#800080",
+  "math": "#0000FF",
+  "recess": "#FFFF00",
+  "french": "#FF0000",
+  "health": "#CCCC00",
+  "lunch": "#FFFF00",
+  "literacy": "#FFFFE0",
+  "dismissal": "#000000",
+  "music": "#FFC0CB",
+  "p.e.": "#8B0000",
+  "h&g": "#00FF00",
+  "drama/dance": "#FFA500",
+  "art": "#800080"
+}
