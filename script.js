@@ -1,4 +1,4 @@
-let dayOffset = 4
+let dayOffset = 6
 let colorsData
 let timetableData
 
